@@ -1,4 +1,4 @@
-# PhoneNow_CCT_PowerBI_Report
+# PhoneNow Call Centre Trends PowerBI Report
 
 ## Introduction
 I am excited to share my ongoing internship experience at PwC Switzerland, where I have been actively engaged in hands-on data analysis and visualization.
