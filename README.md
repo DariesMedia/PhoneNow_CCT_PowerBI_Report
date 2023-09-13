@@ -1,4 +1,4 @@
-# PhoneNow Call Centre Trends PowerBI Report
+# PhoneNow Call Centre Trends Analysis
 
 ## Introduction
 I am excited to share my ongoing internship experience at PwC Switzerland, where I have been actively engaged in hands-on data analysis and visualization.
@@ -18,4 +18,4 @@ Attached to this documentation is the outcome of my analysis, a fully functional
 
 Please feel free to explore the dashboard and reach out for any questions or further discussions.
 
-![Power BI Dashboard](Link_to_Dashboard)
+![Power BI Dashboard](https://raw.githubusercontent.com/DariesMedia/PhoneNow_CCT_PowerBI_Report/main/PhoneNow_CCT_PowerBI_Report.jpg)
